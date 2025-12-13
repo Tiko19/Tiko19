@@ -36,7 +36,7 @@ I'm a .NET Developer based in Kitwe, Zambia, with 3 years of experience building
 ### 🌟 Featured Public/Freelance Projects
 These are projects with code or public access:
 
-- **Point of Sale (POS) System** – Cross-platform retail application built with .NET MAUI and SQLite  
+- **Point of Sale (POS) System** – Cross-platform retail application built with .NET MAUI  
 - **WordPress Websites** – Custom themes and booking systems for small businesses  
 - **Portfolio Website** – [Tiko19.github.io](https://Tiko19.github.io) showcasing projects and skills  
 
