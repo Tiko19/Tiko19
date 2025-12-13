@@ -19,7 +19,7 @@ I'm a .NET Developer based in Kitwe, Zambia, with 3 years of experience building
 
 ---
 
-## 💞️ Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 - Personal or freelance web and desktop projects  
 - Open-source projects in .NET, Blazor, or cross-platform apps  
 
