@@ -70,7 +70,7 @@ I'm interested in:
 - 📧 Email: [terrylungu19@gmail.com](mailto:terrylungu19@gmail.com)
 - 📱 Phone: [+260-96-1608901](tel:+260961608901)
 - 💼 LinkedIn: [linkedin.com/in/terrylungu](https://www.linkedin.com/in/terrylungu)
-- 🌐 Portfolio: [View My Work](https://tiko19.github.io) *(Update with your URL)*
+- 🌐 Portfolio: [View My Work](https://tiko19.github.io)
 
 ---
 
