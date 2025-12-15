@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Terry Tikondane Lungu
 
-I'm a .NET Developer based in Kitwe, Zambia, with 3 years of experience building reliable, scalable web and desktop applications. I focus on creating solutions that solve real-world business problems.
+I'm a .NET Developer based in Kitwe, Zambia, with over 3 years of experience building reliable, scalable web and desktop applications. I focus on creating solutions that solve real-world business problems.
 
 ---
 
